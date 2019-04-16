@@ -20,7 +20,7 @@ Plugin que adiciona as funcionalidades de "comparecerei", "tenho interesse" e "s
 Para subir o ambiente de desenvolvimento basta entrar na pasta `dev-scripts` e rodar o script `dev-start.php`.
 
 ```
-meu-mapas/dev-scripts/$ sudo ./start-dev.php
+plugin-EventActions/dev-scripts/$ sudo ./start-dev.php
 ```
 
 acesse no seu navegador http://localhost/
