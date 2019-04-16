@@ -1,5 +1,5 @@
 <?php
-namespace SamplePlugin;
+namespace EventActions;
 
 class Plugin extends \MapasCulturais\Plugin {
     public function _init() {
